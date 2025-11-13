@@ -1,0 +1,213 @@
+:root{
+    --primary-color:#07043B;
+    --secondary-color:#575988;
+    --tertiary-color:#2F65F8;
+    --color-section:#F8F8FE;
+    --color-active:#6C9BFF;
+}
+/* ul{
+    display: flex;
+} */
+body{
+    margin: 0;
+    font-family:sans-serif;
+    background-color: #fff;
+    color: var(--primary-color);
+}
+.menu{
+    display: flex;
+     justify-content: space-between;
+    align-items: center;  
+    padding: 20px 50px;
+    background-color: #fff;
+}
+.navegacao{
+    display: flex;
+    margin-left: 40px;
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    list-style: none;
+    gap: 30px;   
+}
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 80px;
+    margin: 0 auto;
+}
+.informationText h1{
+    color: var(--primary-color);
+    margin-bottom: 20px;
+}
+.informationText p{
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+}
+input, button{
+    padding: 13px;
+    margin: 8px;
+    width: 250px;
+}
+.informationForm{
+    padding: 14px 20px;
+    border-radius: 20px;
+}
+button{
+    background-color:var(--tertiary-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 2px;
+}
+.productive{
+    background-color:var(--color-section) ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    padding: 70px 100px;
+}
+.productiveText h2{
+    font-size: 2rem;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+}
+.productiveText p{
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+.productiveText a{
+    color: #3DA08F;
+    border-bottom: 1px solid #FFFFFF;
+    display: inline;
+    align-items: center;
+    gap: 5px;
+    margin-top: 10px;
+}
+.productiveText a:hover{
+    color:#71DFCC;
+}
+.productiveImage{
+    display: flex;
+    justify-content: center;
+}
+.boxMessage{
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 40px;
+    max-width: 350px;
+    color: var(--primary-color);
+}
+.boxMessage p{
+    margin-bottom: 15px;
+}
+.boxMessage .Ceo{
+    display: flex;
+     align-items: center;
+     gap: 10px;
+}
+.boxMessage .Ceo img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.boxMessage .Ceo .name{
+    color: var(--primary-color);
+    font-size: 0.95rem;
+}
+.boxMessage .Ceo .Position{
+    color: var(--primary-color);
+    font-size: 0.8rem;
+}
+.acess{
+    background-color: var(--secondary-color);
+    color: #FFFFFF;
+    padding: 80px 20px;
+    text-align: center;
+}
+.containerAcess{
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+.acesstext{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+.acesstext h2{
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.acesstext p{
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.acessForm{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.acessForm input{
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  width: 300px;
+  font-size: 1rem;
+}
+.acessForm button{
+  background-color: var(--tertiary-color);
+  color: #fff;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.footer{
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 80px 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+.containerFooter{
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+}
+.footerLogo img{
+  width: 120px;
+  margin-bottom: 20px;
+}
+.footerLogo p{
+    margin: 5px 0;
+
+}
+.linkFooter{
+    display: flex;
+    gap: 60px;
+}
+.linkFooter ul{
+    list-style: none;
+    padding: 0;
+}
+.linkFooter li{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.socialFooter{
+    color: #fff;
+    margin-right: 15px;
+    font-size: 1.2rem;
+}
