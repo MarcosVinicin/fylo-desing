@@ -1,7 +1,7 @@
 📄 Fylo Design — Landing Page
 
-Projeto desenvolvido com o objetivo de praticar e aprimorar conhecimentos em HTML e CSS, recriando a interface visual da página Fylo. O projeto inclui responsividade, organização em componentes e aplicação de boas práticas de layout.
-
+Projeto desenvolvido com o objetivo de praticar e aprimorar conhecimentos em HTML e CSS, recriando a interface visual da página Fylo.
+O projeto inclui responsividade, organização em componentes e aplicação de boas práticas de layout.
 
 🚀 Overview
 
@@ -36,18 +36,22 @@ https://fylo-desing.vercel.app/
 git clone https://github.com/seu-usuario/fylo-design.git
 cd fylo-design
 
-Depois é só abrir o index.html no navegador ou usar o Live Server no VS Code.
+
+Depois, abra o arquivo index.html no navegador ou utilize o Live Server do VS Code.
 
 🎯 Aprendizado e Motivação
 
-Este projeto foi desenvolvido com o objetivo principal de:
+Este projeto foi desenvolvido com os objetivos de:
 
 ✨ Aprimorar os conhecimentos em HTML e CSS
+
 ✨ Entender melhor como estruturar uma landing page completa
+
 ✨ Melhorar a lógica de responsividade
+
 ✨ Treinar organização de código e boas práticas
 
-A proposta foi replicar um design real e transformar em código limpo e funcional.
+A ideia foi pegar um design real e transformá-lo em código limpo, funcional e responsivo.
 
 👤 Autor
 
