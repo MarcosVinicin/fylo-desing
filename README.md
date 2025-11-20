@@ -1,69 +1,62 @@
-📄 Fylo Design — Landing Page
+# 📄 Fylo Design — Landing Page
 
-Projeto desenvolvido com o objetivo de praticar e aprimorar conhecimentos em HTML e CSS, recriando a interface visual da página Fylo.
-O projeto inclui responsividade, organização em componentes e aplicação de boas práticas de layout.
+Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em **HTML** e **CSS**, recriando a interface da landing page Fylo. O foco principal foi construir um layout moderno, responsivo e organizado, aplicando boas práticas de estruturação e estilização.
 
-🚀 Overview
+---
 
-O Fylo Design é uma landing page moderna construída para treinar conceitos essenciais de front-end, como:
+## 🚀 Overview
 
-Estruturação semântica em HTML
+O **Fylo Design** é uma landing page desenvolvida para treinar conceitos essenciais de front-end, incluindo:
 
-Estilos com CSS utilizando variáveis
+* Estruturação semântica em **HTML**
+* Estilização com **CSS** utilizando variáveis
+* Layout totalmente responsivo com **Flexbox**
+* Componentização visual das seções
+* Organização limpa e escalável de código
 
-Layout responsivo com Flexbox
+---
 
-Componentização visual de seções
+## 🌐 Demonstração
 
-Boas práticas de organização de código
+🔗 **Deploy na Vercel:**<br>
+[https://fylo-desing.vercel.app/](https://fylo-desing.vercel.app/)
 
-🌐 Demonstração do site
+---
 
-🔗 Deploy hospedado na Vercel:
-https://fylo-desing.vercel.app/
+## 🧩 Funcionalidades
 
-🧩 Funcionalidades
+✔️ Layout completamente responsivo<br>
+✔️ Cabeçalho com navegação alinhada lateralmente<br>
+✔️ Seções com textos e imagens ilustrativas<br>
+✔️ Formulário funcional para captura de e-mail<br>
+✔️ Rodapé com links úteis e ícones sociais<br>
+✔️ Uso de variáveis CSS para facilitar manutenção<br>
+✔️ Código organizado em seções independentes
 
-✔️ Layout totalmente responsivo
+---
 
-✔️ Cabeçalho com links alinhados lateralmente
+## 📦 Como rodar o projeto
 
-✔️ Seções de conteúdo com textos + imagens ilustrativas
-
-✔️ Formulário de captura de email
-
-✔️ Rodapé completo com links e ícones sociais
-
-✔️ Uso de variáveis CSS para facilitar manutenção
-
-✔️ Organização em seções independentes
-
-📦 Como rodar
+```bash
 git clone https://github.com/seu-usuario/fylo-design.git
-
 cd fylo-design
+```
 
+Depois, basta abrir o arquivo **index.html** em seu navegador, ou utilizar a extensão **Live Server** do VS Code.
 
-Depois, abra o arquivo index.html no navegador ou utilize o Live Server do VS Code.
+---
 
-🎯 Aprendizado e Motivação
+## 🎯 Aprendizado e Motivação
 
-Este projeto foi desenvolvido com os objetivos de:
+Este projeto foi construído com os objetivos de:
 
-✨ Aprimorar os conhecimentos em HTML e CSS
+✨ Aperfeiçoar conhecimentos em HTML e CSS<br>
+✨ Aprender a estruturar uma landing page completa<br>
+✨ Melhorar a lógica e a execução da responsividade<br>
+✨ Praticar organização de código e boas práticas front-end
 
-✨ Entender melhor como estruturar uma landing page completa
+A ideia principal foi transformar um design real em um código **limpo**, **funcional** e **profissional**, mantendo fidelidade visual e garantindo boa experiência em diferentes dispositivos.
 
-✨ Melhorar a lógica de responsividade
+---
 
-✨ Treinar organização de código e boas práticas
-
-A ideia foi pegar um design real e transformá-lo em código limpo, funcional e responsivo.
-
-👤 Autor
-
-Marcos Vinicius
-
-Desenvolvedor Front-End em evolução 🚀
-
-Sempre buscando aprender mais e criar interfaces melhores.
+Feito com dedicação para evolução contínua no front-end 💙
