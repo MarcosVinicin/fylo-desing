@@ -25,15 +25,22 @@ https://fylo-desing.vercel.app/
 🧩 Funcionalidades
 
 ✔️ Layout totalmente responsivo
+
 ✔️ Cabeçalho com links alinhados lateralmente
+
 ✔️ Seções de conteúdo com textos + imagens ilustrativas
+
 ✔️ Formulário de captura de email
+
 ✔️ Rodapé completo com links e ícones sociais
+
 ✔️ Uso de variáveis CSS para facilitar manutenção
+
 ✔️ Organização em seções independentes
 
 📦 Como rodar
 git clone https://github.com/seu-usuario/fylo-design.git
+
 cd fylo-design
 
 
@@ -56,5 +63,7 @@ A ideia foi pegar um design real e transformá-lo em código limpo, funcional e 
 👤 Autor
 
 Marcos Vinicius
+
 Desenvolvedor Front-End em evolução 🚀
+
 Sempre buscando aprender mais e criar interfaces melhores.
